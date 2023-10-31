@@ -1,0 +1,6 @@
+{
+  "muscles": [
+    { "id": 1, "name": "Chest", "description": "The chest muscles..." },
+    { "id": 2, "name": "Back", "description": "The back muscles..." }
+  ]
+}

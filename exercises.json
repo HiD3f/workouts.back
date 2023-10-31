@@ -1,0 +1,58 @@
+{
+  "exercises": [
+    {
+      "id": 1,
+      "title": "Push Up",
+      "description": "A push-up is a common calisthenics exercise where you start in a plank position and use your arms to lower and raise your body.",
+      "recommendations": "Keep your body straight and engage your core.",
+      "effects": "Strengthens the chest, shoulders, and triceps.",
+      "musclesUsed": ["Chest", "Shoulders", "Triceps"],
+      "images": ["pushup1.jpg", "pushup2.jpg"]
+    },
+    {
+      "id": 2,
+      "title": "Squat",
+      "description": "Stand with feet hip-width apart and bend your knees while pushing your hips back.",
+      "recommendations": "Keep your knees in line with your toes.",
+      "effects": "Strengthens the quadriceps, hamstrings, and glutes.",
+      "musclesUsed": ["Quadriceps", "Hamstrings", "Glutes"],
+      "images": ["squat1.jpg", "squat2.jpg"]
+    },
+    {
+      "id": 3,
+      "title": "Pull Up",
+      "description": "Using a pull-up bar, lift your body up until your chin is above the bar.",
+      "recommendations": "Engage your core and pull your elbows down.",
+      "effects": "Strengthens the back and biceps.",
+      "musclesUsed": ["Latissimus Dorsi", "Biceps"],
+      "images": ["pullup1.jpg", "pullup2.jpg"]
+    },
+    {
+      "id": 4,
+      "title": "Plank",
+      "description": "Hold yourself in a push-up position, keeping your body straight from head to heels.",
+      "recommendations": "Engage your core and don't let your hips sag.",
+      "effects": "Strengthens the core.",
+      "musclesUsed": ["Rectus Abdominis", "Obliques"],
+      "images": ["plank1.jpg", "plank2.jpg"]
+    },
+    {
+      "id": 5,
+      "title": "Lunge",
+      "description": "Step forward with one leg and lower your body until both knees are bent at a 90-degree angle.",
+      "recommendations": "Don't let your front knee go past your toes.",
+      "effects": "Strengthens the quadriceps, hamstrings, and glutes.",
+      "musclesUsed": ["Quadriceps", "Hamstrings", "Glutes"],
+      "images": ["lunge1.jpg", "lunge2.jpg"]
+    },
+    {
+      "id": 6,
+      "title": "Deadlift",
+      "description": "With a barbell in front of you, bend at the hips and knees, grip the bar, and stand up straight by extending your hips and knees.",
+      "recommendations": "Keep your back straight and drive through your heels.",
+      "effects": "Strengthens the back, glutes, and hamstrings.",
+      "musclesUsed": ["Erector Spinae", "Glutes", "Hamstrings"],
+      "images": ["deadlift1.jpg", "deadlift2.jpg"]
+    }
+  ]
+}
